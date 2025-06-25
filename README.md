@@ -2,6 +2,8 @@
 
 A SwiftUI app that searches App Store apps and generates AI-powered summaries of customer reviews using OpenAI.
 
+![RocketSim_Recording_iPhone_16_Pro_6 3_2025-06-25_15 45 54](https://github.com/user-attachments/assets/78ffee99-f833-43e1-a48d-8d922dcefe83)
+
 ## Features
 
 🔍 **Universal Search** - Find any public App Store app  
