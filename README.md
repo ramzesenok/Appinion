@@ -1,3 +1,4 @@
+![Icon-macOS-Default-512x512@1x](https://github.com/user-attachments/assets/1979b500-e0e8-4914-b9b2-f7f9075fabd8)
 # Appinion
 
 A SwiftUI app that searches App Store apps and generates AI-powered summaries of customer reviews using OpenAI.
